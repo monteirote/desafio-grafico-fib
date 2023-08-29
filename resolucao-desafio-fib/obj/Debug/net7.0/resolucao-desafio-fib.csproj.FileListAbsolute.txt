@@ -1,0 +1,15 @@
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/bin/Debug/net7.0/resolucao-desafio-fib
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/bin/Debug/net7.0/resolucao-desafio-fib.deps.json
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/bin/Debug/net7.0/resolucao-desafio-fib.runtimeconfig.json
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/bin/Debug/net7.0/resolucao-desafio-fib.dll
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/bin/Debug/net7.0/resolucao-desafio-fib.pdb
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/resolucao-desafio-fib.csproj.AssemblyReference.cache
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/resolucao-desafio-fib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/resolucao-desafio-fib.AssemblyInfoInputs.cache
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/resolucao-desafio-fib.AssemblyInfo.cs
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/resolucao-desafio-fib.csproj.CoreCompileInputs.cache
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/resolucao-desafio-fib.dll
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/refint/resolucao-desafio-fib.dll
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/resolucao-desafio-fib.pdb
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/resolucao-desafio-fib.genruntimeconfig.cache
+/Users/andremonteiro/Desktop/resolucao-desafio-fib/resolucao-desafio-fib/obj/Debug/net7.0/ref/resolucao-desafio-fib.dll
